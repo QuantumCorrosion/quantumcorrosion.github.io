@@ -28,43 +28,44 @@ corrosion.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;OILRIG&lt;/strong&gt; Oxidation Is Loss Reduction Is Gain&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Anode oxid&lt;strong&gt;A&lt;/strong&gt;tion&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;At an &lt;strong&gt;A&lt;/strong&gt;node we have oxid&lt;strong&gt;A&lt;/strong&gt;tion&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Cathode redu&lt;strong&gt;C&lt;/strong&gt;tion&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;At a &lt;strong&gt;C&lt;/strong&gt;athode we have redu&lt;strong&gt;C&lt;/strong&gt;tion&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;A reduction reaction has the electrons on the left. For example
 $M^{++}+e^{-}\to M^{+}$ is reduction because the oxidation state of
 M(II) is reduced to M(I). Similarly $M\to M^{+}+e^{-}$ is oxidation,
 and this happens at the anode during corrosion.&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Noble metal: unreactive, has large positive standard electrode
-potential (solid metal more stable than aqueous ions).&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;A &lt;strong&gt;noble metal&lt;/strong&gt; is unreactive and has a large positive standard electrode
+potential. The solid metal is more stable than its aqueous ions.&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Base metal: reactive, has large negative standard electrode
-potential (solid metal less stable than aqueous ions).&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;A &lt;strong&gt;base metal&lt;/strong&gt; is reactive and has large negative standard electrode
+potential. The solid metal is less stable than its aqueous ions.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&#34;structure&#34;&gt;Structure&lt;/h1&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Electrical double layer&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;There are several models of the &lt;strong&gt;electrical double layer&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ol&gt;
-&lt;li&gt;&lt;p&gt;Helmholtz (fixed layer of ions)&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;The &lt;strong&gt;Helmholtz&lt;/strong&gt; double layer has a fixed layer of ions&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Gouy &amp;amp; Chapman (point ions that follow Maxwell-Boltzmann
-statistics. Linearized to solve Poisson’s equation)&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;The &lt;strong&gt;Gouy &amp;amp; Chapman&lt;/strong&gt; double layer has point ions that follow Maxwell-Boltzmann
+statistics. The Posson-Boltzmann equation can be linearized in the low concentration
+limit to solve Poisson’s equation.&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Stern (combines fixed layer with diffuse region)&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;The &lt;strong&gt;Stern&lt;/strong&gt; double layer combines a fixed layer with a diffuse region.&lt;/p&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;p&gt;Grahame (Inner Helmholtz Plane (absorbed), Outer Helmholtz
-Plane, diffuse layer)&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;The &lt;strong&gt;Grahame&lt;/strong&gt; double layer has an Inner Helmholtz Plane (absorbed),
+an Outer Helmholtz Plane, and a diffuse layer.&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&#34;equilibrium-thermodynamics&#34;&gt;Equilibrium Thermodynamics&lt;/h1&gt;
 
-&lt;p&gt;Corrosion is described by a series of chemical reactions.&lt;/p&gt;
+&lt;p&gt;Corrosion can be described by a series of chemical reactions.&lt;/p&gt;
 
 &lt;p&gt;At equilibrium the ratios of the amounts of reactants and products
 can be computed. For a reaction of the form&lt;/p&gt;
