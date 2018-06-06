@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Corrosion on Quantum Corrosion</title>
+    <link>/tags/corrosion/</link>
+    <description>Recent content in Corrosion on Quantum Corrosion</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 14 May 2018 13:25:47 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/corrosion/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Corrosion Notes (May 2018)</title>
+      <link>/post/2018-05-corrosion-notes/</link>
+      <pubDate>Mon, 14 May 2018 13:25:47 +0100</pubDate>
+      
+      <guid>/post/2018-05-corrosion-notes/</guid>
+      <description>As preparation for writing the original grant proposal, Tony Paxton and Andrew Horsfield put together some notes on their understanding of the definition of terms used in electrochemistry, and some of the understanding of physics of corrosion.
+Mnemonics and definitions  OILRIG Oxidation Is Loss Reduction Is Gain
+ Anode oxidAtion
+ Cathode reduCtion
+ A reduction reaction has the electrons on the left. For example $M^{++}+e^{-}\to M^{+}$ is reduction because the oxidation state of M(II) is reduced to M(I).</description>
+    </item>
+    
+  </channel>
+</rss>
