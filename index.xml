@@ -26,7 +26,7 @@ corrosion.&lt;/p&gt;
 &lt;h1 id=&#34;mnemonics-and-definitions&#34;&gt;Mnemonics and definitions&lt;/h1&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;OILRIG&lt;/strong&gt; Oxidation Is Loss Reduction Is Gain&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;OILRIG&lt;/strong&gt;: Oxidation Is Loss Reduction Is Gain&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;At an &lt;strong&gt;A&lt;/strong&gt;node we have oxid&lt;strong&gt;A&lt;/strong&gt;tion&lt;/p&gt;&lt;/li&gt;
 
@@ -34,14 +34,20 @@ corrosion.&lt;/p&gt;
 
 &lt;li&gt;&lt;p&gt;A reduction reaction has the electrons on the left. For example
 $M^{++}+e^{-}\to M^{+}$ is reduction because the oxidation state of
-M(II) is reduced to M(I). Similarly $M\to M^{+}+e^{-}$ is oxidation,
-and this happens at the anode during corrosion.&lt;/p&gt;&lt;/li&gt;
+M(II) is reduced to M(I). Similarly $M\to M^{+}+e^{-}$ is oxidation:
+this happens at the anode during corrosion.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;A &lt;strong&gt;noble metal&lt;/strong&gt; is unreactive and has a large positive standard electrode
 potential. The solid metal is more stable than its aqueous ions.&lt;/p&gt;&lt;/li&gt;
 
 &lt;li&gt;&lt;p&gt;A &lt;strong&gt;base metal&lt;/strong&gt; is reactive and has large negative standard electrode
 potential. The solid metal is less stable than its aqueous ions.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;An &lt;strong&gt;ideally polarizable electrode&lt;/strong&gt; supports the applied potential without
+allowing any current to flow. It can be thought of as acting like a capacitor.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;An &lt;strong&gt;ideally non-polarizable electrode&lt;/strong&gt; supports a current from the electode
+into the solution with very small applied potentials.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&#34;structure&#34;&gt;Structure&lt;/h1&gt;
@@ -67,7 +73,10 @@ an Outer Helmholtz Plane, and a diffuse layer.&lt;/p&gt;&lt;/li&gt;
 
 &lt;p&gt;Corrosion can be described by a series of chemical reactions.&lt;/p&gt;
 
-&lt;p&gt;At equilibrium the ratios of the amounts of reactants and products
+&lt;h3 id=&#34;standard-results-from-chemistry&#34;&gt;Standard results from chemistry.&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;At equilibrium the ratios of the amounts of reactants and products
 can be computed. For a reaction of the form&lt;/p&gt;
 
 &lt;div&gt;
@@ -81,40 +90,40 @@ $$K=\frac{\Pi_{j=1}^{M}\left\{ P_{j}\right\} ^{m_{j}}}{\Pi_{i=1}^{N}\left\{ R_{i
 &lt;/div&gt;
 
 &lt;p&gt;where $\left\{ X\right\}$ is the activity of $X$, and is equal to 1
-under standard conditions ($\left\{ X\right\} ^{\ominus}=1$).&lt;/p&gt;
+under standard conditions ($\left\{ X\right\} ^{\ominus}=1$).&lt;/p&gt;&lt;/li&gt;
 
-&lt;p&gt;Thermodynamic activity is dimensionless and related to concentration by&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;Thermodynamic activity is dimensionless and related to concentration by&lt;/p&gt;
 
-&lt;div&gt;$$
-\left\{ X\right\} =\gamma_{X}\frac{\left[X\right]}{\left[X\right]^{\ominus}}
-\label{eq:N3}$$&lt;/div&gt;
+&lt;p&gt;&lt;div&gt;$$
+ \left{ X\right} =\gamma_{X}\frac{\left[X\right]}{\left[X\right]^{\ominus}}
+ \label{eq:N3}$$&lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;where $\gamma_{X}$ is the activity coefficient. It can also be
-expressed in a similar manner in terms of pressure or mole fraction.&lt;/p&gt;
+ expressed in a similar manner in terms of pressure or mole fraction.&lt;/p&gt;&lt;/li&gt;
 
-&lt;p&gt;The equilibrium constant can be related to the free energy change for the
+&lt;li&gt;&lt;p&gt;The equilibrium constant can be related to the free energy change for the
 reaction.&lt;/p&gt;
 
 &lt;p&gt;The free energy is stationary at equilibrium, and hence does not change if
 a small amount of the reactants transform into products or vice versa. Thus we
 have $0=\sum_{j=1}^{M}m_{j}\mu_{Pu_{j}}-\sum_{i=1}^{N}n_{i}\mu_{R_{i}}$ where
-$\mu_{P_{j}}$ is the chemical potential for species $P_{j}$ etc.&lt;/p&gt;
+$\mu_{P_{j}}$ is the chemical potential for species $P_{j}$ etc.&lt;/p&gt;&lt;/li&gt;
 
-&lt;p&gt;Chemical potentials of species vary with their environment according to&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;Chemical potentials of species vary with their environment according to&lt;/p&gt;
 
 &lt;div&gt;$$
 \mu_{X}=\mu_{X}^{\ominus}+RT\ln\left\{ X\right\} 
 \label{eq:N4}$$&lt;/div&gt; 
 
 &lt;p&gt;where $\mu_{X}^{\ominus}$ is the chemical potential of $X$ under standard
-conditions.&lt;/p&gt;
+conditions.&lt;/p&gt;&lt;/li&gt;
 
-&lt;p&gt;Substituting the expression for chemical potential into the
+&lt;li&gt;&lt;p&gt;Substituting the expression for chemical potential into the
 equilibrium condition gives&lt;/p&gt;
 
 &lt;div&gt;$$\begin{aligned}
-    0 &amp; = &amp; \sum_{j=1}^{M}m_{j}\mu_{P_{j}}^{\ominus}-\sum_{i=1}^{N}n_{i}\mu_{R_{i}}^{\ominus}+RT\left(\sum_{j=1}^{M}\ln\left\{ P_{j}\right\} ^{m_{j}}-\sum_{i=1}^{N}\ln\left\{ R_{i}\right\} ^{n_{i}}\right)\\
-     &amp; = &amp; \Delta G^{\ominus}+RT\ln\frac{\Pi_{j=1}^{M}\left\{ P_{j}\right\} ^{m_{j}}}{\Pi_{i=1}^{N}\left\{ R_{i}\right\} ^{n_{i}}}
+0 &amp; = &amp; \sum_{j=1}^{M}m_{j}\mu_{P_{j}}^{\ominus}-\sum_{i=1}^{N}n_{i}\mu_{R_{i}}^{\ominus}+RT\left(\sum_{j=1}^{M}\ln\left\{ P_{j}\right\} ^{m_{j}}-\sum_{i=1}^{N}\ln\left\{ R_{i}\right\} ^{n_{i}}\right)\\
+  &amp; = &amp; \Delta G^{\ominus}+RT\ln\frac{\Pi_{j=1}^{M}\left\{ P_{j}\right\} ^{m_{j}}}{\Pi_{i=1}^{N}\left\{ R_{i}\right\} ^{n_{i}}}
 \end{aligned}$$&lt;/div&gt;
 
 &lt;p&gt;where $\Delta G^{\ominus}=\sum_{j=1}^{M}m_{j}\mu_{P_{j}}^{\ominus}-\sum_{i=1}^{N}n_{i}\mu_{R_{i}}^{\ominus}$.&lt;/p&gt;
@@ -125,7 +134,8 @@ equilibrium condition gives&lt;/p&gt;
 K=\frac{\Pi_{j=1}^{M}\left\{ P_{j}\right\}
 ^{m_{j}}}{\Pi_{i=1}^{N}\left\{ R_{i}\right\} ^{n_{i}}}=\exp\left(-\frac{\Delta
 G^{\ominus}}{RT}\right)
-\label{eq:N5}$$&lt;/div&gt;
+\label{eq:N5}$$&lt;/div&gt;&lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;h3 id=&#34;nernst-equation&#34;&gt;Nernst Equation&lt;/h3&gt;
 
@@ -202,7 +212,9 @@ more negative potential to proceed in the oxidising direction (mnemonic: NO),
 while the one with the more positive potential will proceed in the reducing
 direction (mnemonic: PR).&lt;/p&gt;
 
-&lt;p&gt;Pourbaix diagrams are phase diagrams displaying the most stable species as
+&lt;h3 id=&#34;pourbaix-diagrams&#34;&gt;Pourbaix Diagrams&lt;/h3&gt;
+
+&lt;p&gt;These are phase diagrams displaying the most stable species as
 a function of electrode potential ($\mu_{e}=-FE$) and pH.  The phase boundary
 lines are derived from the equation of chemical equilibrium. For example, for
 the equilibrium $Mg^{++}+2H^{+}+4e^{-}\rightleftharpoons MgH_{2}$ we have
@@ -220,13 +232,13 @@ $\mu\_{e}=\frac{1}{4}\left(\mu\_{MgH\_{2}}-\mu\_{Mg^{++}}\right)-\frac{1}{2}\mu\
 
 &lt;h1 id=&#34;kinetics&#34;&gt;Kinetics&lt;/h1&gt;
 
-&lt;p&gt;The Butler-Volmer equation:&lt;/p&gt;
+&lt;p&gt;The &lt;strong&gt;Butler-Volmer&lt;/strong&gt; equation:&lt;/p&gt;
 
 &lt;div&gt;
 $i=i_{0}\left\{ \exp\left(\frac{\alpha_{a}zF\eta}{RT}\right)-\exp\left(-\frac{\alpha_{c}zF\eta}{RT}\right)\right\}$
 &lt;/div&gt;
 
-&lt;p&gt;For large positive (or negative) overpotential we get the Tafel equation&lt;/p&gt;
+&lt;p&gt;For large positive (or negative) overpotential we get the &lt;strong&gt;Tafel&lt;/strong&gt; equation&lt;/p&gt;
 
 &lt;div&gt;
 $$\begin{aligned} i &amp; \approx
@@ -234,16 +246,13 @@ $$\begin{aligned} i &amp; \approx
 i &amp; \approx &amp; \ln i_{0}+\left(\frac{\alpha_{a}zF}{RT}\right)\eta\end{aligned}$$
 &lt;/div&gt;
 
-&lt;p&gt;Faraday’s law $$\frac{m}{M}=\frac{Q}{nF}$$ where $m$ is the mass of substance
+&lt;p&gt;&lt;strong&gt;Faraday’s law&lt;/strong&gt; $$\frac{m}{M}=\frac{Q}{nF}$$ where $m$ is the mass of substance
 produced at an electrode, $Q$ is the total charge delivered to the system, $F$
 is Faraday’s constant, $M$ is the molar mass of the substance, and $n$ is the
 charge per ion.&lt;/p&gt;
 
 &lt;p&gt;At fixed overpotential, the total measured current must equal the net rate of
 electron transfer to or from the electrode (to avoid a change in net charge).&lt;/p&gt;
-
-&lt;p&gt;To understand complex geometries (e.g. pits) where diffusion as well as
-chemistry are important, need something like kinetic Monte-Carlo.&lt;/p&gt;
 
 &lt;h1 id=&#34;potentials&#34;&gt;Potentials&lt;/h1&gt;
 
@@ -263,6 +272,8 @@ chemistry are important, need something like kinetic Monte-Carlo.&lt;/p&gt;
 $\alpha=\tilde{\mu}-q\psi=\mu+q\chi$. Also $\alpha=\alpha^{0}+kT\ln a$ where $\alpha^{0}=\mu^{0}+q\chi$&lt;/dd&gt;
 &lt;dt&gt;Work function $W$&lt;/dt&gt;
 &lt;dd&gt;$W=\tilde{\mu}^{g,0}-\tilde{\mu}^{0}=\mu^{g,0}-\alpha^{0}=\mu^{g,0}-\mu^{0}-q\chi$&lt;/dd&gt;
+&lt;dt&gt;Potential of Zero Charge&lt;/dt&gt;
+&lt;dd&gt;The value of the electrode potential such that the electrode surface has zero charge&lt;/dd&gt;
 &lt;/dl&gt;
 
 &lt;p&gt;$q$ is the charge of the particle.

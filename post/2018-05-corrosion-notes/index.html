@@ -18,7 +18,7 @@
     
   
   <meta name="description" content="As preparation for writing the original grant proposal, Tony Paxton and Andrew Horsfield put together some notes on their understanding of the definition of terms used in electrochemistry, and some of the understanding of physics of corrosion.
-Mnemonics and definitions  OILRIG Oxidation Is Loss Reduction Is Gain
+Mnemonics and definitions  OILRIG: Oxidation Is Loss Reduction Is Gain
  At an Anode we have oxidAtion
  At a Cathode we have reduCtion
  A reduction reaction has the electrons on the left.">
@@ -81,7 +81,7 @@ Mnemonics and definitions  OILRIG Oxidation Is Loss Reduction Is Gain
   <meta property="og:url" content="/post/2018-05-corrosion-notes/">
   <meta property="og:title" content="Corrosion Notes (May 2018) | Quantum Corrosion">
   <meta property="og:description" content="As preparation for writing the original grant proposal, Tony Paxton and Andrew Horsfield put together some notes on their understanding of the definition of terms used in electrochemistry, and some of the understanding of physics of corrosion.
-Mnemonics and definitions  OILRIG Oxidation Is Loss Reduction Is Gain
+Mnemonics and definitions  OILRIG: Oxidation Is Loss Reduction Is Gain
  At an Anode we have oxidAtion
  At a Cathode we have reduCtion
  A reduction reaction has the electrons on the left.">
@@ -254,7 +254,7 @@ Mnemonics and definitions  OILRIG Oxidation Is Loss Reduction Is Gain
   
   <span class="middot-divider"></span>
   <span class="article-reading-time">
-    7 min read
+    8 min read
   </span>
   
 
@@ -324,7 +324,7 @@ corrosion.</p>
 <h1 id="mnemonics-and-definitions">Mnemonics and definitions</h1>
 
 <ul>
-<li><p><strong>OILRIG</strong> Oxidation Is Loss Reduction Is Gain</p></li>
+<li><p><strong>OILRIG</strong>: Oxidation Is Loss Reduction Is Gain</p></li>
 
 <li><p>At an <strong>A</strong>node we have oxid<strong>A</strong>tion</p></li>
 
@@ -332,14 +332,20 @@ corrosion.</p>
 
 <li><p>A reduction reaction has the electrons on the left. For example
 $M^{++}+e^{-}\to M^{+}$ is reduction because the oxidation state of
-M(II) is reduced to M(I). Similarly $M\to M^{+}+e^{-}$ is oxidation,
-and this happens at the anode during corrosion.</p></li>
+M(II) is reduced to M(I). Similarly $M\to M^{+}+e^{-}$ is oxidation:
+this happens at the anode during corrosion.</p></li>
 
 <li><p>A <strong>noble metal</strong> is unreactive and has a large positive standard electrode
 potential. The solid metal is more stable than its aqueous ions.</p></li>
 
 <li><p>A <strong>base metal</strong> is reactive and has large negative standard electrode
 potential. The solid metal is less stable than its aqueous ions.</p></li>
+
+<li><p>An <strong>ideally polarizable electrode</strong> supports the applied potential without
+allowing any current to flow. It can be thought of as acting like a capacitor.</p></li>
+
+<li><p>An <strong>ideally non-polarizable electrode</strong> supports a current from the electode
+into the solution with very small applied potentials.</p></li>
 </ul>
 
 <h1 id="structure">Structure</h1>
@@ -365,7 +371,10 @@ an Outer Helmholtz Plane, and a diffuse layer.</p></li>
 
 <p>Corrosion can be described by a series of chemical reactions.</p>
 
-<p>At equilibrium the ratios of the amounts of reactants and products
+<h3 id="standard-results-from-chemistry">Standard results from chemistry.</h3>
+
+<ol>
+<li><p>At equilibrium the ratios of the amounts of reactants and products
 can be computed. For a reaction of the form</p>
 
 <div>
@@ -379,40 +388,40 @@ $$K=\frac{\Pi_{j=1}^{M}\left\{ P_{j}\right\} ^{m_{j}}}{\Pi_{i=1}^{N}\left\{ R_{i
 </div>
 
 <p>where $\left\{ X\right\}$ is the activity of $X$, and is equal to 1
-under standard conditions ($\left\{ X\right\} ^{\ominus}=1$).</p>
+under standard conditions ($\left\{ X\right\} ^{\ominus}=1$).</p></li>
 
-<p>Thermodynamic activity is dimensionless and related to concentration by</p>
+<li><p>Thermodynamic activity is dimensionless and related to concentration by</p>
 
-<div>$$
-\left\{ X\right\} =\gamma_{X}\frac{\left[X\right]}{\left[X\right]^{\ominus}}
-\label{eq:N3}$$</div>
+<p><div>$$
+ \left{ X\right} =\gamma_{X}\frac{\left[X\right]}{\left[X\right]^{\ominus}}
+ \label{eq:N3}$$</div></p>
 
 <p>where $\gamma_{X}$ is the activity coefficient. It can also be
-expressed in a similar manner in terms of pressure or mole fraction.</p>
+ expressed in a similar manner in terms of pressure or mole fraction.</p></li>
 
-<p>The equilibrium constant can be related to the free energy change for the
+<li><p>The equilibrium constant can be related to the free energy change for the
 reaction.</p>
 
 <p>The free energy is stationary at equilibrium, and hence does not change if
 a small amount of the reactants transform into products or vice versa. Thus we
 have $0=\sum_{j=1}^{M}m_{j}\mu_{Pu_{j}}-\sum_{i=1}^{N}n_{i}\mu_{R_{i}}$ where
-$\mu_{P_{j}}$ is the chemical potential for species $P_{j}$ etc.</p>
+$\mu_{P_{j}}$ is the chemical potential for species $P_{j}$ etc.</p></li>
 
-<p>Chemical potentials of species vary with their environment according to</p>
+<li><p>Chemical potentials of species vary with their environment according to</p>
 
 <div>$$
 \mu_{X}=\mu_{X}^{\ominus}+RT\ln\left\{ X\right\} 
 \label{eq:N4}$$</div> 
 
 <p>where $\mu_{X}^{\ominus}$ is the chemical potential of $X$ under standard
-conditions.</p>
+conditions.</p></li>
 
-<p>Substituting the expression for chemical potential into the
+<li><p>Substituting the expression for chemical potential into the
 equilibrium condition gives</p>
 
 <div>$$\begin{aligned}
-    0 & = & \sum_{j=1}^{M}m_{j}\mu_{P_{j}}^{\ominus}-\sum_{i=1}^{N}n_{i}\mu_{R_{i}}^{\ominus}+RT\left(\sum_{j=1}^{M}\ln\left\{ P_{j}\right\} ^{m_{j}}-\sum_{i=1}^{N}\ln\left\{ R_{i}\right\} ^{n_{i}}\right)\\
-     & = & \Delta G^{\ominus}+RT\ln\frac{\Pi_{j=1}^{M}\left\{ P_{j}\right\} ^{m_{j}}}{\Pi_{i=1}^{N}\left\{ R_{i}\right\} ^{n_{i}}}
+0 & = & \sum_{j=1}^{M}m_{j}\mu_{P_{j}}^{\ominus}-\sum_{i=1}^{N}n_{i}\mu_{R_{i}}^{\ominus}+RT\left(\sum_{j=1}^{M}\ln\left\{ P_{j}\right\} ^{m_{j}}-\sum_{i=1}^{N}\ln\left\{ R_{i}\right\} ^{n_{i}}\right)\\
+  & = & \Delta G^{\ominus}+RT\ln\frac{\Pi_{j=1}^{M}\left\{ P_{j}\right\} ^{m_{j}}}{\Pi_{i=1}^{N}\left\{ R_{i}\right\} ^{n_{i}}}
 \end{aligned}$$</div>
 
 <p>where $\Delta G^{\ominus}=\sum_{j=1}^{M}m_{j}\mu_{P_{j}}^{\ominus}-\sum_{i=1}^{N}n_{i}\mu_{R_{i}}^{\ominus}$.</p>
@@ -423,7 +432,8 @@ equilibrium condition gives</p>
 K=\frac{\Pi_{j=1}^{M}\left\{ P_{j}\right\}
 ^{m_{j}}}{\Pi_{i=1}^{N}\left\{ R_{i}\right\} ^{n_{i}}}=\exp\left(-\frac{\Delta
 G^{\ominus}}{RT}\right)
-\label{eq:N5}$$</div>
+\label{eq:N5}$$</div></li>
+</ol>
 
 <h3 id="nernst-equation">Nernst Equation</h3>
 
@@ -500,7 +510,9 @@ more negative potential to proceed in the oxidising direction (mnemonic: NO),
 while the one with the more positive potential will proceed in the reducing
 direction (mnemonic: PR).</p>
 
-<p>Pourbaix diagrams are phase diagrams displaying the most stable species as
+<h3 id="pourbaix-diagrams">Pourbaix Diagrams</h3>
+
+<p>These are phase diagrams displaying the most stable species as
 a function of electrode potential ($\mu_{e}=-FE$) and pH.  The phase boundary
 lines are derived from the equation of chemical equilibrium. For example, for
 the equilibrium $Mg^{++}+2H^{+}+4e^{-}\rightleftharpoons MgH_{2}$ we have
@@ -518,13 +530,13 @@ $\mu\_{e}=\frac{1}{4}\left(\mu\_{MgH\_{2}}-\mu\_{Mg^{++}}\right)-\frac{1}{2}\mu\
 
 <h1 id="kinetics">Kinetics</h1>
 
-<p>The Butler-Volmer equation:</p>
+<p>The <strong>Butler-Volmer</strong> equation:</p>
 
 <div>
 $i=i_{0}\left\{ \exp\left(\frac{\alpha_{a}zF\eta}{RT}\right)-\exp\left(-\frac{\alpha_{c}zF\eta}{RT}\right)\right\}$
 </div>
 
-<p>For large positive (or negative) overpotential we get the Tafel equation</p>
+<p>For large positive (or negative) overpotential we get the <strong>Tafel</strong> equation</p>
 
 <div>
 $$\begin{aligned} i & \approx
@@ -532,16 +544,13 @@ $$\begin{aligned} i & \approx
 i & \approx & \ln i_{0}+\left(\frac{\alpha_{a}zF}{RT}\right)\eta\end{aligned}$$
 </div>
 
-<p>Faraday’s law $$\frac{m}{M}=\frac{Q}{nF}$$ where $m$ is the mass of substance
+<p><strong>Faraday’s law</strong> $$\frac{m}{M}=\frac{Q}{nF}$$ where $m$ is the mass of substance
 produced at an electrode, $Q$ is the total charge delivered to the system, $F$
 is Faraday’s constant, $M$ is the molar mass of the substance, and $n$ is the
 charge per ion.</p>
 
 <p>At fixed overpotential, the total measured current must equal the net rate of
 electron transfer to or from the electrode (to avoid a change in net charge).</p>
-
-<p>To understand complex geometries (e.g. pits) where diffusion as well as
-chemistry are important, need something like kinetic Monte-Carlo.</p>
 
 <h1 id="potentials">Potentials</h1>
 
@@ -561,6 +570,8 @@ chemistry are important, need something like kinetic Monte-Carlo.</p>
 $\alpha=\tilde{\mu}-q\psi=\mu+q\chi$. Also $\alpha=\alpha^{0}+kT\ln a$ where $\alpha^{0}=\mu^{0}+q\chi$</dd>
 <dt>Work function $W$</dt>
 <dd>$W=\tilde{\mu}^{g,0}-\tilde{\mu}^{0}=\mu^{g,0}-\alpha^{0}=\mu^{g,0}-\mu^{0}-q\chi$</dd>
+<dt>Potential of Zero Charge</dt>
+<dd>The value of the electrode potential such that the electrode surface has zero charge</dd>
 </dl>
 
 <p>$q$ is the charge of the particle.
