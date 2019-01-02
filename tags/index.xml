@@ -7,13 +7,12 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 14 May 2018 13:25:47 +0100</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Corrosion</title>
+      <title>corrosion</title>
       <link>/tags/corrosion/</link>
       <pubDate>Mon, 14 May 2018 13:25:47 +0100</pubDate>
       
@@ -22,7 +21,7 @@
     </item>
     
     <item>
-      <title>Electrochemistry</title>
+      <title>electrochemistry</title>
       <link>/tags/electrochemistry/</link>
       <pubDate>Mon, 14 May 2018 13:25:47 +0100</pubDate>
       
