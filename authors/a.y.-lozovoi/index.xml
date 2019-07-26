@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A.Y. Lozovoi on Quantum Corrosion</title>
+    <link>/authors/a.y.-lozovoi/</link>
+    <description>Recent content in A.Y. Lozovoi on Quantum Corrosion</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 28 Jul 2014 02:00:00 +0100</lastBuildDate>
+    
+	    <atom:link href="/authors/a.y.-lozovoi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>JCP III</title>
+      <link>/publication/jcp-iii/</link>
+      <pubDate>Mon, 28 Jul 2014 02:00:00 +0100</pubDate>
+      
+      <guid>/publication/jcp-iii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JCP II</title>
+      <link>/publication/jcp-ii/</link>
+      <pubDate>Mon, 28 Jul 2014 01:00:00 +0100</pubDate>
+      
+      <guid>/publication/jcp-ii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JCP I</title>
+      <link>/publication/jcp-i/</link>
+      <pubDate>Mon, 28 Jul 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/jcp-i/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

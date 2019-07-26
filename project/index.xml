@@ -4,12 +4,12 @@
     <title>Projects on Quantum Corrosion</title>
     <link>/project/</link>
     <description>Recent content in Projects on Quantum Corrosion</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 18 Apr 2018 17:56:07 +0100</lastBuildDate>
     
-	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,8 +18,14 @@
       <pubDate>Wed, 18 Apr 2018 17:56:07 +0100</pubDate>
       
       <guid>/project/magnesium/</guid>
-      <description>Magnesium alloys are lightweight and strong, but technological applications are limited by high rates of aqueeous corrosion (even damp air is sufficient!).
-Magnesium can used for medical implants that are designed to dissolve over time, hence corrosion is desirable. However, the corrosion rate needs to be controlled to prevent damaging hydrogen build up.</description>
+      <description>&lt;p&gt;Magnesium alloys are lightweight and strong, but technological applications are
+limited by high rates of aqueeous corrosion (even damp air is sufficient!).&lt;/p&gt;
+
+&lt;p&gt;Magnesium can used for medical implants that are designed to dissolve over
+time, hence corrosion is desirable.
+However, the corrosion rate needs to be controlled to prevent damaging hydrogen
+build up.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -28,7 +34,13 @@ Magnesium can used for medical implants that are designed to dissolve over time,
       <pubDate>Wed, 18 Apr 2018 17:56:03 +0100</pubDate>
       
       <guid>/project/titanium/</guid>
-      <description>Titanium alloys are relatively corrosion resistant, but in the aerospace sector suffer stress corrosion cracking following degreasing in chlorine-containing agents, or even after handling by salty fingers! When titanium is used for medical implants, corrosion is a principal cause of failure; for example, localised wear of an implant exposes a small area of metal establishing a large anodic current density and localised metal wastage.</description>
+      <description>&lt;p&gt;Titanium alloys are relatively corrosion resistant, but in the aerospace sector
+suffer stress corrosion cracking following degreasing in chlorine-containing
+agents, or even after handling by salty fingers! When titanium is used for
+medical implants, corrosion is a principal cause of failure; for example,
+localised wear of an implant exposes a small area of metal establishing a large
+anodic current density and localised metal wastage.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

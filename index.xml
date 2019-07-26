@@ -4,127 +4,412 @@
     <title>Quantum Corrosion</title>
     <link>/</link>
     <description>Recent content on Quantum Corrosion</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jul 2019 13:12:47 +0100</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title></title>
-      <link>/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
-      
-      <guid>/home/about/</guid>
-      <description>Quantum Corrosion is an EPSRC Standard-Grant (EP/R005230/1, EP/R005419/1, UKRI) funded project to develop quantum-mechanical methods to model corrosion in technologically relevant materials.
-In 2008 the annual financial cost to the UK arising from corrosion damage to metals was $70.6 billion. In addition to the financial cost, the threat of corrosion limits the range of materials that can be safely or reliably deployed. The principal reason why magnesium alloys are not as ubiquitous as the denser aluminium is their susceptibility to aqueous corrosion even in reasonably dry air.</description>
-    </item>
     
     <item>
-      <title>Selected Publications</title>
-      <link>/home/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      <title>Electrophysics Notes (July 2019)</title>
+      <link>/post/tony-electrophysics-notes/tony-electrophysics-notes/</link>
+      <pubDate>Fri, 26 Jul 2019 13:12:47 +0100</pubDate>
       
-      <guid>/home/publications_selected/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent Publications</title>
-      <link>/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
-      
-      <guid>/home/publications/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>/home/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
-      
-      <guid>/home/talks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recent Posts</title>
-      <link>/home/posts/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
-      
-      <guid>/home/posts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>/home/projects/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
-      
-      <guid>/home/projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Custom Section</title>
-      <link>/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
-      
-      <guid>/home/teaching/</guid>
-      <description>This is an example of using the custom widget to create your own homepage section.
-To remove this section, either delete content/home/teaching.md or edit the frontmatter of the file to deactivate the widget by setting active = false.</description>
-    </item>
-    
-    <item>
-      <title>Tags</title>
-      <link>/home/tags/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 +0100</pubDate>
-      
-      <guid>/home/tags/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
-      
-      <guid>/home/contact/</guid>
-      <description>Please get in touch with the individual academics mentioned above. In particular, the Principal Investigators on this project are Tony Paxton and Andrew Horsfield.</description>
+      <guid>/post/tony-electrophysics-notes/tony-electrophysics-notes/</guid>
+      <description>&lt;p&gt;Notes written by Tony Paxton as part of a series of journal clubs at Kings College London and Imperial College London in 2018.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;/files/notes-v5.pdf&#34;&gt;Electrophysics-Notes.pdf&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Computational corrosion: Fundamentals</title>
       <link>/talk/2018-09-tyc-corrosion-meeting-2019/</link>
-      <pubDate>Fri, 28 Sep 2018 17:25:47 +0100</pubDate>
+      <pubDate>Thu, 25 Apr 2019 09:00:00 +0100</pubDate>
       
       <guid>/talk/2018-09-tyc-corrosion-meeting-2019/</guid>
-      <description>We are happy to announce that we are having a one-day corrosion meeting at Imperial College (London) on Thursday 25 April 2019. Support is from the Thomas Young Centre (https://www.thomasyoungcentre.org/)
-The topic of the meeting will be focused on &amp;lsquo;fundamentals of the electrochemistry of the metal/electrolyte interface&amp;rsquo;.
-Please see the meeting website for more information (http://www3.imperial.ac.uk/newsandeventspggrp/imperialcollege/naturalsciences/chemistry/eventssummary/event_10-12-2018-10-26-45).</description>
-    </item>
-    
-    <item>
-      <title>Corrosion Notes (May 2018)</title>
-      <link>/post/2018-05-corrosion-notes/</link>
-      <pubDate>Mon, 14 May 2018 13:25:47 +0100</pubDate>
-      
-      <guid>/post/2018-05-corrosion-notes/</guid>
-      <description>As preparation for writing the original grant proposal, Tony Paxton and Andrew Horsfield put together some notes on their understanding of the definition of terms used in electrochemistry, and some of the understanding of physics of corrosion.
-Mnemonics and definitions  OILRIG: Oxidation Is Loss Reduction Is Gain
- At an Anode we have oxidAtion
- At a Cathode we have reduCtion
- A reduction reaction has the electrons on the left.</description>
+      <description>&lt;p&gt;We are happy to announce that we are having a one-day corrosion meeting at Imperial College (London) on Thursday 25 April 2019.
+Support is from the Thomas Young Centre (&lt;a href=&#34;https://www.thomasyoungcentre.org/&#34; target=&#34;_blank&#34;&gt;https://www.thomasyoungcentre.org/&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;The topic of the meeting will be focused on &amp;lsquo;fundamentals of the electrochemistry of the metal/electrolyte interface&amp;rsquo;.&lt;/p&gt;
+
+&lt;p&gt;Please see the meeting website for more information (&lt;a href=&#34;http://www3.imperial.ac.uk/newsandeventspggrp/imperialcollege/naturalsciences/chemistry/eventssummary/event_10-12-2018-10-26-45&#34; target=&#34;_blank&#34;&gt;http://www3.imperial.ac.uk/newsandeventspggrp/imperialcollege/naturalsciences/chemistry/eventssummary/event_10-12-2018-10-26-45&lt;/a&gt;).&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>International Workshop on Computational Electrochemistry</title>
       <link>/talk/2018-07-helsinki/</link>
-      <pubDate>Wed, 09 May 2018 12:00:00 +0100</pubDate>
+      <pubDate>Mon, 09 Jul 2018 12:00:00 +0100</pubDate>
       
       <guid>/talk/2018-07-helsinki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Corrosion Notes (May 2018)</title>
+      <link>/post/2018-corrosion-notes/2018-05-corrosion-notes/</link>
+      <pubDate>Mon, 14 May 2018 13:25:47 +0100</pubDate>
+      
+      <guid>/post/2018-corrosion-notes/2018-05-corrosion-notes/</guid>
+      <description>
+
+&lt;p&gt;As preparation for writing the original grant proposal, Tony Paxton and Andrew
+Horsfield put together some notes on their understanding of the definition of
+terms used in electrochemistry, and some of the understanding of physics of
+corrosion.&lt;/p&gt;
+
+&lt;h1 id=&#34;mnemonics-and-definitions&#34;&gt;Mnemonics and definitions&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;OILRIG&lt;/strong&gt;: Oxidation Is Loss Reduction Is Gain&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;At an &lt;strong&gt;A&lt;/strong&gt;node we have oxid&lt;strong&gt;A&lt;/strong&gt;tion&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;At a &lt;strong&gt;C&lt;/strong&gt;athode we have redu&lt;strong&gt;C&lt;/strong&gt;tion&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;A reduction reaction has the electrons on the left. For example
+$M^{++}+e^{-}\to M^{+}$ is reduction because the oxidation state of
+M(II) is reduced to M(I). Similarly $M\to M^{+}+e^{-}$ is oxidation:
+this happens at the anode during corrosion.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;A &lt;strong&gt;noble metal&lt;/strong&gt; is unreactive and has a large positive standard electrode
+potential. The solid metal is more stable than its aqueous ions.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;A &lt;strong&gt;base metal&lt;/strong&gt; is reactive and has large negative standard electrode
+potential. The solid metal is less stable than its aqueous ions.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;An &lt;strong&gt;ideally polarizable electrode&lt;/strong&gt; supports the applied potential without
+allowing any current to flow. It can be thought of as acting like a capacitor.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;An &lt;strong&gt;ideally non-polarizable electrode&lt;/strong&gt; supports a current from the electode
+into the solution with very small applied potentials.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;structure&#34;&gt;Structure&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;There are several models of the &lt;strong&gt;electrical double layer&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;The &lt;strong&gt;Helmholtz&lt;/strong&gt; double layer has a fixed layer of ions&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;The &lt;strong&gt;Gouy &amp;amp; Chapman&lt;/strong&gt; double layer has point ions that follow Maxwell-Boltzmann
+statistics. The Posson-Boltzmann equation can be linearized in the low concentration
+limit to solve Poisson’s equation.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;The &lt;strong&gt;Stern&lt;/strong&gt; double layer combines a fixed layer with a diffuse region.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;The &lt;strong&gt;Grahame&lt;/strong&gt; double layer has an Inner Helmholtz Plane (absorbed),
+an Outer Helmholtz Plane, and a diffuse layer.&lt;/p&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;equilibrium-thermodynamics&#34;&gt;Equilibrium Thermodynamics&lt;/h1&gt;
+
+&lt;p&gt;Corrosion can be described by a series of chemical reactions.&lt;/p&gt;
+
+&lt;h3 id=&#34;standard-results-from-chemistry&#34;&gt;Standard results from chemistry.&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;At equilibrium the ratios of the amounts of reactants and products
+can be computed. For a reaction of the form&lt;/p&gt;
+
+&lt;div&gt;
+$$n_{1}R_{1}+n_{2}R_{2}+\dots+n_{N}R_{N}\rightleftharpoons m_{1}P_{1}+m_{2}P_{2}+\dots+m_{M}P_{M}\label{eq:N1}$$
+&lt;/div&gt;
+
+&lt;p&gt;we have equilibrium constant $K$ given by&lt;/p&gt;
+
+&lt;div&gt;
+$$K=\frac{\Pi_{j=1}^{M}\left\{ P_{j}\right\} ^{m_{j}}}{\Pi_{i=1}^{N}\left\{ R_{i}\right\} ^{n_{i}}}\label{eq:N2}$$
+&lt;/div&gt;
+
+&lt;p&gt;where $\left\{ X\right\}$ is the activity of $X$, and is equal to 1
+under standard conditions ($\left\{ X\right\} ^{\ominus}=1$).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Thermodynamic activity is dimensionless and related to concentration by&lt;/p&gt;
+
+&lt;p&gt;&lt;div&gt;$$
+ \left{ X\right} =\gamma_{X}\frac{\left[X\right]}{\left[X\right]^{\ominus}}
+ \label{eq:N3}$$&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;where $\gamma_{X}$ is the activity coefficient. It can also be
+ expressed in a similar manner in terms of pressure or mole fraction.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;The equilibrium constant can be related to the free energy change for the
+reaction.&lt;/p&gt;
+
+&lt;p&gt;The free energy is stationary at equilibrium, and hence does not change if
+a small amount of the reactants transform into products or vice versa. Thus we
+have $0=\sum_{j=1}^{M}m_{j}\mu_{Pu_{j}}-\sum_{i=1}^{N}n_{i}\mu_{R_{i}}$ where
+$\mu_{P_{j}}$ is the chemical potential for species $P_{j}$ etc.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Chemical potentials of species vary with their environment according to&lt;/p&gt;
+
+&lt;div&gt;$$
+\mu_{X}=\mu_{X}^{\ominus}+RT\ln\left\{ X\right\} 
+\label{eq:N4}$$&lt;/div&gt; 
+
+&lt;p&gt;where $\mu_{X}^{\ominus}$ is the chemical potential of $X$ under standard
+conditions.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Substituting the expression for chemical potential into the
+equilibrium condition gives&lt;/p&gt;
+
+&lt;div&gt;$$\begin{aligned}
+0 &amp; = &amp; \sum_{j=1}^{M}m_{j}\mu_{P_{j}}^{\ominus}-\sum_{i=1}^{N}n_{i}\mu_{R_{i}}^{\ominus}+RT\left(\sum_{j=1}^{M}\ln\left\{ P_{j}\right\} ^{m_{j}}-\sum_{i=1}^{N}\ln\left\{ R_{i}\right\} ^{n_{i}}\right)\\
+  &amp; = &amp; \Delta G^{\ominus}+RT\ln\frac{\Pi_{j=1}^{M}\left\{ P_{j}\right\} ^{m_{j}}}{\Pi_{i=1}^{N}\left\{ R_{i}\right\} ^{n_{i}}}
+\end{aligned}$$&lt;/div&gt;
+
+&lt;p&gt;where $\Delta G^{\ominus}=\sum_{j=1}^{M}m_{j}\mu_{P_{j}}^{\ominus}-\sum_{i=1}^{N}n_{i}\mu_{R_{i}}^{\ominus}$.&lt;/p&gt;
+
+&lt;p&gt;This can be rearranged to give&lt;/p&gt;
+
+&lt;div&gt;$$
+K=\frac{\Pi_{j=1}^{M}\left\{ P_{j}\right\}
+^{m_{j}}}{\Pi_{i=1}^{N}\left\{ R_{i}\right\} ^{n_{i}}}=\exp\left(-\frac{\Delta
+G^{\ominus}}{RT}\right)
+\label{eq:N5}$$&lt;/div&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&#34;nernst-equation&#34;&gt;Nernst Equation&lt;/h3&gt;
+
+&lt;p&gt;The Nernst equation is a statement about equilibrium for half reactions.
+Consider the reaction $$M^{z+}+ze^{-}\rightleftharpoons M\label{eq:N5.1}$$ At
+equilibrium the change of Gibbs free energy is zero if you go forwards or
+backwards. Thus we have $$\mu_{M^{z+}}+z\mu_{e}-\mu_{M}=0\label{eq:N5.2}$$
+If we substitute Eq. [eq:N4] into Eq. [eq:N5.2] we get&lt;/p&gt;
+
+&lt;div&gt;
+$$\begin{aligned} 
+0 &amp; = &amp; \mu\_{M^{z+}}^{\ominus}+RT\ln\left\{ M^{z+}\right\}
++z\left(\mu\_{e}^{\ominus}+\Delta\mu\_{e}\right)-\mu\_{M}^{\ominus}-RT\ln\left\{
+M\right\} \nonumber \\ 
+&amp; = &amp; \Delta G^{\ominus}+RT\ln\frac{\left\{M^{z+}\right\} }{\left\{ M\right\} }+z\Delta\mu\_{e}
+\label{eq:N6}
+\end{aligned}$$
+&lt;/div&gt;
+
+&lt;p&gt;where $\Delta G^{\ominus}=\mu_{M^{z+}}^{\ominus}+z\mu_{e}^{\ominus}-\mu_{M}^{\ominus}$.&lt;/p&gt;
+
+&lt;p&gt;The electron chemical potential $\mu_{e}^{\ominus}$ is not defined uniquely by
+the standard conditions. Thus we will add the condition that the system be in
+equilibrium; this condition can always be met by providing enough $M$ and
+$M^{z+}$ under standard conditions such that the electron reservoir (electrode)
+is charged to the point that equilibrium is established. Note that this means
+that, provided the electrode is metallic and sufficiently inert, it does not
+matter what material is chosen. Once we reach equilibrium, we have $\Delta
+G^{\ominus}=0$, and hence&lt;/p&gt;
+
+&lt;div&gt;
+$$\mu_{e}^{\ominus}=\frac{1}{z}\left(\mu_{M}^{\ominus}-\mu_{M^{z+}}^{\ominus}\right)\label{eq:N7}$$
+&lt;/div&gt;
+
+&lt;p&gt;This corresponds to the standard electrode potential $E^{\ominus}$ through
+$\mu_{e}^{\ominus}=-FE^{\ominus}$, where $F$ is a Faraday.&lt;/p&gt;
+
+&lt;p&gt;Rearranging Eq.
+[eq:N6] we then get the Nernst equation&lt;/p&gt;
+
+&lt;div&gt;
+$$\begin{aligned}
+    \mu_{e} &amp; = &amp; \mu_{e}^{\ominus}-\frac{RT}{z}\ln\frac{\left\{ M^{z+}\right\} }{\left\{ M\right\} }\label{eq:N8}\\
+    E &amp; = &amp; E^{\ominus}-\frac{RT}{zF}\ln\frac{\left\{ M\right\} }{\left\{ M^{z+}\right\} }\label{eq:N8.1}\end{aligned}$$
+&lt;/div&gt;
+
+&lt;h3 id=&#34;the-standard-hydrogen-electrode-she&#34;&gt;The Standard Hydrogen Electrode (SHE)&lt;/h3&gt;
+
+&lt;p&gt;The Standard Hydrogen Electrode is characterized by the equilibrium
+$H^{+}+e^{-}\rightleftharpoons\frac{1}{2}H_{2}$ with pH 0, $P_{H_{2}}=1$ bar,
+and $T=298$ K. Thus $\mu_{e}=\frac{1}{2}\mu_{H_{2}}-\mu_{H^{+}}$.&lt;/p&gt;
+
+&lt;p&gt;The corresponding potential is in the range 4.44 V to 4.85 V relative to
+vacuum.&lt;/p&gt;
+
+&lt;p&gt;Consider two half reactions&lt;/p&gt;
+
+&lt;div&gt; 
+$$\begin{aligned} M_{1}^{z_{1}+}+z_{1}e^{-} &amp; \rightleftharpoons
+&amp; M_{1}\nonumber \\ M^{z_{2}+}+z_{2}e^{-} &amp; \rightleftharpoons
+&amp; M_{2}\label{eq:N9}\end{aligned}$$ 
+&lt;/div&gt;
+
+&lt;p&gt;with associated standard electrode potentials $E_{1}$ and $E_{2}$.  Now suppose
+we allow electrons to flow from the electrode for $M_{1}$ to the electrode for
+$M_{2}$. The free energy change per mole of electrons is then $\Delta
+G=F\left(E_{1}-E_{2}\right)$. If $E_{1}&amp;gt;E_{2}$ then $\Delta G&amp;gt;0$, and it is
+favourable for the electrons to flow the other way (from 2 to 1). Similarly, if
+$E_{1}&amp;lt;E_{2}$ it is energetically favourable for the electrons to flow from
+1 to 2. In short, electrons flow from the electrode with more negative
+potential to the one with more positive (as expected).  Applying Le Chatelier’s
+principle, that means coupling two electrodes will cause the reaction with the
+more negative potential to proceed in the oxidising direction (mnemonic: NO),
+while the one with the more positive potential will proceed in the reducing
+direction (mnemonic: PR).&lt;/p&gt;
+
+&lt;h3 id=&#34;pourbaix-diagrams&#34;&gt;Pourbaix Diagrams&lt;/h3&gt;
+
+&lt;p&gt;These are phase diagrams displaying the most stable species as
+a function of electrode potential ($\mu_{e}=-FE$) and pH.  The phase boundary
+lines are derived from the equation of chemical equilibrium. For example, for
+the equilibrium $Mg^{++}+2H^{+}+4e^{-}\rightleftharpoons MgH_{2}$ we have
+$\mu_{Mg^{++}}+2\mu_{H^{+}}+4\mu_{e}=\mu_{MgH_{2}}$.&lt;/p&gt;
+
+&lt;p&gt;Hence,&lt;/p&gt;
+
+&lt;div&gt;
+$\mu\_{e}=\frac{1}{4}\left(\mu\_{MgH\_{2}}-\mu\_{Mg^{++}}\right)-\frac{1}{2}\mu\_{H^{+}}\\
+
+\approx\frac{1}{4}\left(\mu\_{MgH\_{2}}-\mu\_{Mg^{++}}-2\mu\_{H^{+}}^{\ominus}\right)+\frac{2.303}{2}RTpH$.
+&lt;/div&gt;
+
+&lt;p&gt;The voltage is given by $\mu_{e}=\mu_{e,ref}-FE$.&lt;/p&gt;
+
+&lt;h1 id=&#34;kinetics&#34;&gt;Kinetics&lt;/h1&gt;
+
+&lt;p&gt;The &lt;strong&gt;Butler-Volmer&lt;/strong&gt; equation:&lt;/p&gt;
+
+&lt;div&gt;
+$i=i_{0}\left\{ \exp\left(\frac{\alpha_{a}zF\eta}{RT}\right)-\exp\left(-\frac{\alpha_{c}zF\eta}{RT}\right)\right\}$
+&lt;/div&gt;
+
+&lt;p&gt;For large positive (or negative) overpotential we get the &lt;strong&gt;Tafel&lt;/strong&gt; equation&lt;/p&gt;
+
+&lt;div&gt;
+$$\begin{aligned} i &amp; \approx
+&amp; i_{0}\exp\left(\frac{\alpha_{a}zF\eta}{RT}\right)\\ \Rightarrow\ln
+i &amp; \approx &amp; \ln i_{0}+\left(\frac{\alpha_{a}zF}{RT}\right)\eta\end{aligned}$$
+&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Faraday’s law&lt;/strong&gt; $$\frac{m}{M}=\frac{Q}{nF}$$ where $m$ is the mass of substance
+produced at an electrode, $Q$ is the total charge delivered to the system, $F$
+is Faraday’s constant, $M$ is the molar mass of the substance, and $n$ is the
+charge per ion.&lt;/p&gt;
+
+&lt;p&gt;At fixed overpotential, the total measured current must equal the net rate of
+electron transfer to or from the electrode (to avoid a change in net charge).&lt;/p&gt;
+
+&lt;h1 id=&#34;potentials&#34;&gt;Potentials&lt;/h1&gt;
+
+&lt;dl&gt;
+&lt;dt&gt;Galvani potential $\phi$&lt;/dt&gt;
+&lt;dd&gt;Electric potential inside the conductor&lt;/dd&gt;
+&lt;dt&gt;Volta potential $\psi$&lt;/dt&gt;
+&lt;dd&gt;Electric potential at point $p$ just outside the interface, in vacuum.&lt;/dd&gt;
+&lt;dt&gt;Dipole potential $\chi$&lt;/dt&gt;
+&lt;dd&gt;Electric potential difference between the point $p$ and inside: $\chi=\phi-\psi$&lt;/dd&gt;
+&lt;dt&gt;Chemical potential $\mu$&lt;/dt&gt;
+&lt;dd&gt;$\mu=\mu^{0}+kT\ln a$&lt;/dd&gt;
+&lt;dt&gt;Electrochemical potential $\tilde{\mu}$&lt;/dt&gt;
+&lt;dd&gt;Work done in taking particle from infinity to the interior of the phase. $\tilde{\mu}=\mu+q\phi$&lt;/dd&gt;
+&lt;dt&gt;Real potential $\alpha$&lt;/dt&gt;
+&lt;dd&gt;Work done in taking particle from inside the phase to point $p$ just outside.
+$\alpha=\tilde{\mu}-q\psi=\mu+q\chi$. Also $\alpha=\alpha^{0}+kT\ln a$ where $\alpha^{0}=\mu^{0}+q\chi$&lt;/dd&gt;
+&lt;dt&gt;Work function $W$&lt;/dt&gt;
+&lt;dd&gt;$W=\tilde{\mu}^{g,0}-\tilde{\mu}^{0}=\mu^{g,0}-\alpha^{0}=\mu^{g,0}-\mu^{0}-q\chi$&lt;/dd&gt;
+&lt;dt&gt;Potential of Zero Charge&lt;/dt&gt;
+&lt;dd&gt;The value of the electrode potential such that the electrode surface has zero charge&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;p&gt;$q$ is the charge of the particle.
+Note that the point $p$ is always in vacuum.&lt;/p&gt;
+
+&lt;h1 id=&#34;h-formation-by-mg-in-aqueous-solution&#34;&gt;H formation by Mg in aqueous solution&lt;/h1&gt;
+
+&lt;p&gt;Let a piece of pure Mg with a perfectly clean surface be placed in a
+beaker of pure water. The Mg can dissolve into the water according to&lt;/p&gt;
+
+&lt;div&gt;
+$$Mg_{(s)}\rightleftharpoons Mg_{(aq)}^{++}+2e^{-}\label{eq:RMg}$$
+&lt;/div&gt;
+
+&lt;p&gt;This results in the accumulation of electrons in the solid Mg, lowering
+its potential (making it more cathodic). The standard electrode
+potential is -2.38 V. These electrons are free to participate in a
+second reaction&lt;/p&gt;
+
+&lt;div&gt;
+$$2H_{2}O+2e^{-}\rightleftharpoons H_{2}+2OH^{-}\label{eq:RH}$$ 
+&lt;/div&gt;
+
+&lt;p&gt;Thus the
+dissolution of Mg enables the reduction of water to form hydrogen gas.
+The removal of electrons from the solid Mg by reaction [eq:RH] pulls
+reaction [eq:RMg] to the right, resulting in further dissolution of
+g. This in turn produces more electrons, pulling reaction [eq:RH] to
+the right as well. Thus the two reactions support each other, resulting
+in the steady formation of hydrogen and dissolution of Mg.&lt;/p&gt;
+
+&lt;p&gt;The hydroxide ions can combine with Mg ions to form insoluble magnesium
+hydroxide which has the hexagonal hP3 structure (space group
+P$\bar{3}$m1 No. 164, lattice constants a = 0.312 nm, c = 0.473 nm)&lt;/p&gt;
+
+&lt;div&gt;
+$$Mg_{(aq)}^{++}+2OH_{(aq)}^{-}\rightleftharpoons Mg(OH)_{2(s)}\label{eq:RMgOH2}$$
+&lt;/div&gt;
+
+&lt;p&gt;This removes both $Mg^{++}$ and $OH^{-}$ from solution, further
+encouraging the forward reactions, unless the hydroxide forms a
+passivating layer.&lt;/p&gt;
+
+&lt;p&gt;We can quantify the above somewhat by reference to Eq. [eq:N5]we&lt;/p&gt;
+
+&lt;div&gt;
+$$\begin{aligned}
+\left\{ Mg_{(aq)}^{++}\right\}  &amp; = &amp; \frac{K_{Mg}\left\{ Mg_{(s)}\right\} }{\left\{ e^{-}\right\} ^{2}}\label{eq:E1}\\
+\left\{ OH^{-}\right\} ^{2} &amp; = &amp; \frac{K_{H}\left\{ H_{2}O\right\} ^{2}\left\{ e^{-}\right\} ^{2}}{\left\{ H_{2}\right\} }\label{eq:E2}\\
+\left\{ Mg_{(aq)}^{++}\right\} \left\{ OH^{-}\right\} ^{2} &amp; = &amp; \frac{K_{Mg}K_{H}\left\{ H_{2}O\right\} ^{2}\left\{ Mg_{(s)}\right\} }{\left\{ H_{2}\right\} }\label{eq:E3}\\
+ &amp; = &amp; \frac{\left\{ Mg\left(OH\right)_{2(s)}\right\} }{K_{Mg(OH)_{2}}}\label{eq:E4}\end{aligned}$$
+ &lt;/div&gt;
+
+&lt;p&gt;From Eq. [eq:N4] we have&lt;/p&gt;
+
+&lt;div&gt;
+$$\left\{ e^{-}\right\} =\exp\left(\frac{\mu_{e}-\mu_{e}^{\ominus}}{RT}\right)\doteq\exp\left(\frac{-FE}{RT}\right)\label{eq:mue}$$
+&lt;/div&gt;
+
+&lt;p&gt;Substituting Eq. [eq:mue] into Eqs. [eq:E1] and [eq:E2] then gives&lt;/p&gt;
+
+&lt;div&gt;
+$$\begin{aligned}
+\left\{ Mg_{(aq)}^{++}\right\}  &amp; = &amp; K_{Mg}\left\{ Mg_{(s)}\right\} \exp\left(\frac{2FE}{RT}\right)\\
+\left\{ OH^{-}\right\} ^{2} &amp; = &amp; \frac{K_{H}\left\{ H_{2}O\right\} ^{2}}{\left\{ H_{2}\right\} }\exp\left(\frac{-2FE}{RT}\right)\end{aligned}$$
+&lt;/div&gt;
+
+&lt;p&gt;from which we see that a more positive potential (anodic) encourages
+formation of $Mg^{++}$ while a more negative potential (cathodic)
+encourages $OH^{-}$ formation.&lt;/p&gt;
+
+&lt;p&gt;In the negative difference effect we find more hydrogen gas being
+produced at anodic potentials, which contradicts the results above. From
+Eq. [eq:E3] we see that increasing&lt;/p&gt;
+
+&lt;div&gt;
+$\left\{ Mg\_{(aq)}^{++}\right\}$
+&lt;/dev&gt;
+
+will decrease 
+
+&lt;div&gt;
+$\left\{ OH^{-}\right\}$
+&lt;/div&gt;
+
+&lt;p&gt;as the solid hydroxide
+precipitates out. This in turn will pull reaction [eq:RH] to the right
+(there will be more $H^{+}$ ions in solution), resulting in more
+hydrogen production.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Computational Corrosion TYC</title>
+      <link>/talk/computational-corrosion-tyc/</link>
+      <pubDate>Tue, 24 Apr 2018 09:00:00 +0100</pubDate>
+      
+      <guid>/talk/computational-corrosion-tyc/</guid>
       <description></description>
     </item>
     
@@ -134,8 +419,14 @@ Mnemonics and definitions  OILRIG: Oxidation Is Loss Reduction Is Gain
       <pubDate>Wed, 18 Apr 2018 17:56:07 +0100</pubDate>
       
       <guid>/project/magnesium/</guid>
-      <description>Magnesium alloys are lightweight and strong, but technological applications are limited by high rates of aqueeous corrosion (even damp air is sufficient!).
-Magnesium can used for medical implants that are designed to dissolve over time, hence corrosion is desirable. However, the corrosion rate needs to be controlled to prevent damaging hydrogen build up.</description>
+      <description>&lt;p&gt;Magnesium alloys are lightweight and strong, but technological applications are
+limited by high rates of aqueeous corrosion (even damp air is sufficient!).&lt;/p&gt;
+
+&lt;p&gt;Magnesium can used for medical implants that are designed to dissolve over
+time, hence corrosion is desirable.
+However, the corrosion rate needs to be controlled to prevent damaging hydrogen
+build up.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -144,24 +435,21 @@ Magnesium can used for medical implants that are designed to dissolve over time,
       <pubDate>Wed, 18 Apr 2018 17:56:03 +0100</pubDate>
       
       <guid>/project/titanium/</guid>
-      <description>Titanium alloys are relatively corrosion resistant, but in the aerospace sector suffer stress corrosion cracking following degreasing in chlorine-containing agents, or even after handling by salty fingers! When titanium is used for medical implants, corrosion is a principal cause of failure; for example, localised wear of an implant exposes a small area of metal establishing a large anodic current density and localised metal wastage.</description>
-    </item>
-    
-    <item>
-      <title>Computational Corrosion TYC</title>
-      <link>/talk/computational-corrosion-tyc/</link>
-      <pubDate>Wed, 18 Apr 2018 17:41:00 +0100</pubDate>
-      
-      <guid>/talk/computational-corrosion-tyc/</guid>
-      <description></description>
+      <description>&lt;p&gt;Titanium alloys are relatively corrosion resistant, but in the aerospace sector
+suffer stress corrosion cracking following degreasing in chlorine-containing
+agents, or even after handling by salty fingers! When titanium is used for
+medical implants, corrosion is a principal cause of failure; for example,
+localised wear of an implant exposes a small area of metal establishing a large
+anodic current density and localised metal wastage.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>HairyProbes</title>
-      <link>/publication/hairyprobes/</link>
+      <link>/publication/hairy_probes/hairyprobes/</link>
       <pubDate>Wed, 10 Aug 2016 17:16:05 +0100</pubDate>
       
-      <guid>/publication/hairyprobes/</guid>
+      <guid>/publication/hairy_probes/hairyprobes/</guid>
       <description></description>
     </item>
     

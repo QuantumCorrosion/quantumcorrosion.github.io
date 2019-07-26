@@ -4,17 +4,18 @@
     <title>Tags on Quantum Corrosion</title>
     <link>/tags/</link>
     <description>Recent content in Tags on Quantum Corrosion</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Fri, 26 Jul 2019 13:12:47 +0100</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>corrosion</title>
       <link>/tags/corrosion/</link>
-      <pubDate>Mon, 14 May 2018 13:25:47 +0100</pubDate>
+      <pubDate>Fri, 26 Jul 2019 13:12:47 +0100</pubDate>
       
       <guid>/tags/corrosion/</guid>
       <description></description>
@@ -23,7 +24,7 @@
     <item>
       <title>electrochemistry</title>
       <link>/tags/electrochemistry/</link>
-      <pubDate>Mon, 14 May 2018 13:25:47 +0100</pubDate>
+      <pubDate>Fri, 26 Jul 2019 13:12:47 +0100</pubDate>
       
       <guid>/tags/electrochemistry/</guid>
       <description></description>

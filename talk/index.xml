@@ -4,29 +4,33 @@
     <title>Recent &amp; Upcoming Talks on Quantum Corrosion</title>
     <link>/talk/</link>
     <description>Recent content in Recent &amp; Upcoming Talks on Quantum Corrosion</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2019 09:00:00 +0100</lastBuildDate>
     
-	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Computational corrosion: Fundamentals</title>
       <link>/talk/2018-09-tyc-corrosion-meeting-2019/</link>
-      <pubDate>Fri, 28 Sep 2018 17:25:47 +0100</pubDate>
+      <pubDate>Thu, 25 Apr 2019 09:00:00 +0100</pubDate>
       
       <guid>/talk/2018-09-tyc-corrosion-meeting-2019/</guid>
-      <description>We are happy to announce that we are having a one-day corrosion meeting at Imperial College (London) on Thursday 25 April 2019. Support is from the Thomas Young Centre (https://www.thomasyoungcentre.org/)
-The topic of the meeting will be focused on &amp;lsquo;fundamentals of the electrochemistry of the metal/electrolyte interface&amp;rsquo;.
-Please see the meeting website for more information (http://www3.imperial.ac.uk/newsandeventspggrp/imperialcollege/naturalsciences/chemistry/eventssummary/event_10-12-2018-10-26-45).</description>
+      <description>&lt;p&gt;We are happy to announce that we are having a one-day corrosion meeting at Imperial College (London) on Thursday 25 April 2019.
+Support is from the Thomas Young Centre (&lt;a href=&#34;https://www.thomasyoungcentre.org/&#34; target=&#34;_blank&#34;&gt;https://www.thomasyoungcentre.org/&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;The topic of the meeting will be focused on &amp;lsquo;fundamentals of the electrochemistry of the metal/electrolyte interface&amp;rsquo;.&lt;/p&gt;
+
+&lt;p&gt;Please see the meeting website for more information (&lt;a href=&#34;http://www3.imperial.ac.uk/newsandeventspggrp/imperialcollege/naturalsciences/chemistry/eventssummary/event_10-12-2018-10-26-45&#34; target=&#34;_blank&#34;&gt;http://www3.imperial.ac.uk/newsandeventspggrp/imperialcollege/naturalsciences/chemistry/eventssummary/event_10-12-2018-10-26-45&lt;/a&gt;).&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>International Workshop on Computational Electrochemistry</title>
       <link>/talk/2018-07-helsinki/</link>
-      <pubDate>Wed, 09 May 2018 12:00:00 +0100</pubDate>
+      <pubDate>Mon, 09 Jul 2018 12:00:00 +0100</pubDate>
       
       <guid>/talk/2018-07-helsinki/</guid>
       <description></description>
@@ -35,7 +39,7 @@ Please see the meeting website for more information (http://www3.imperial.ac.uk/
     <item>
       <title>Computational Corrosion TYC</title>
       <link>/talk/computational-corrosion-tyc/</link>
-      <pubDate>Wed, 18 Apr 2018 17:41:00 +0100</pubDate>
+      <pubDate>Tue, 24 Apr 2018 09:00:00 +0100</pubDate>
       
       <guid>/talk/computational-corrosion-tyc/</guid>
       <description></description>

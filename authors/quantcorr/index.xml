@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quantum Corrosion</title>
+    <link>/authors/quantcorr/</link>
+    <description>Recent content on Quantum Corrosion</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    
+	    <atom:link href="/authors/quantcorr/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/authors/quantcorr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/authors/quantcorr/</guid>
+      <description>&lt;p&gt;Quantum Corrosion is an EPSRC Standard-Grant
+(&lt;a href=&#34;http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/R005230/1&#34; target=&#34;_blank&#34;&gt;EP/R005230/1&lt;/a&gt;,
+&lt;a href=&#34;http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/R005419/1&#34; target=&#34;_blank&#34;&gt;EP/R005419/1&lt;/a&gt;,
+&lt;a href=&#34;http://gtr.ukri.org/project/54EEC293-6F23-4938-AB0D-CF56F0AB131D&#34; target=&#34;_blank&#34;&gt;UKRI&lt;/a&gt;) funded project to develop quantum-mechanical methods to model corrosion in technologically relevant materials.&lt;/p&gt;
+
+&lt;p&gt;In 2008 the annual financial cost to the UK arising from corrosion damage to
+metals was $70.6 billion. In addition to the financial cost, the threat of
+corrosion limits the range of materials that can be safely or reliably
+deployed. The principal reason why magnesium alloys are not as ubiquitous as
+the denser aluminium is their susceptibility to aqueous corrosion even in
+reasonably dry air. Titanium alloys are more corrosion resistant, but in the
+aerospace sector suffer stress corrosion cracking following degreasing in
+chlorine-containing agents, or even after handling by salty fingers! When
+titanium is used for medical implants, corrosion is a principal cause of
+failure; for example, localised wear of an implant exposes a small area of
+metal establishing a large anodic current density and localised metal wastage.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
