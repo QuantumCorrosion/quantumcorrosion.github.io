@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Fri, 11 Sep 2020 09:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2020 09:00:00 +0100</lastBuildDate>
     
 	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,16 +15,14 @@
     <item>
       <title>Fundamentals of the electrochemistry of the metal/electrolyte interface 2</title>
       <link>/talk/2020-corrosion-meeting/</link>
-      <pubDate>Fri, 11 Sep 2020 09:00:00 +0100</pubDate>
+      <pubDate>Mon, 20 Apr 2020 09:00:00 +0100</pubDate>
       
       <guid>/talk/2020-corrosion-meeting/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;PLEASE NOTE:&lt;/strong&gt; This meeting was originally scheduled for April, but was postponed due to the coronavirus outbreak. Thus, the (previously confirmed) speaker list below is currently subject to change if speakers are unavailable on the new date.&lt;/p&gt;
-
-&lt;p&gt;This meeting will continue the success of the previous meeting, with a focus on the aqueous corrosion of metals. The emphasis this time will be on longer length scale simulations (&lt;em&gt;i.e.&lt;/em&gt; longer than from standard atomistic methods). Funding for this event is from the EPSRC.&lt;/p&gt;
+      <description>&lt;p&gt;This meeting will continue the success of the previous meeting, with a focus on the aqueous corrosion of metals. The emphasis this time will be on longer length scale simulations (&lt;em&gt;i.e.&lt;/em&gt; longer than from standard atomistic methods). Funding for this event is from the EPSRC.&lt;/p&gt;
 
 &lt;p&gt;This page will be updated with more details closer to the event&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Speakers&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Confirmed Speakers&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Michiel Sprik (University of Cambridge)&lt;/li&gt;
@@ -40,7 +38,7 @@
 &lt;li&gt;Stella Pedrazzini (Imperial College London)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;strong&gt;Attendees&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Confirmed Attendees&lt;/strong&gt;&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;David Rugg (Rolls-Royce Plc)&lt;/li&gt;
@@ -60,6 +58,15 @@
 
 &lt;p&gt;&lt;img src=&#34;/img/TYC-black-on-white-orig.jpg&#34; alt=&#34;tyc_logo&#34; width=&#34;100&#34;/&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>TightBinding-I</title>
+      <link>/publication/two_centre_tight_binding/tightbinding-i/</link>
+      <pubDate>Fri, 10 Apr 2020 17:16:05 +0100</pubDate>
+      
+      <guid>/publication/two_centre_tight_binding/tightbinding-i/</guid>
+      <description></description>
     </item>
     
     <item>
