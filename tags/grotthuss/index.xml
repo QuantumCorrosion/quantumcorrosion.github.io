@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>grotthuss on Quantum Corrosion</title>
+    <link>/tags/grotthuss/</link>
+    <description>Recent content in grotthuss on Quantum Corrosion</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 29 Apr 2020 13:12:47 +0100</lastBuildDate>
+    
+	    <atom:link href="/tags/grotthuss/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Grotthuss Mechanism Simulations</title>
+      <link>/post/grotthuss/grotthuss/</link>
+      <pubDate>Wed, 29 Apr 2020 13:12:47 +0100</pubDate>
+      
+      <guid>/post/grotthuss/grotthuss/</guid>
+      <description>&lt;p&gt;Alexander Lozovoi has been using tight-binding to model the Grotthuss proton transfer mechanism in water. Shown below are parts of molecular dynamics simulations for a hydronium ion in water.&lt;/p&gt;
+
+&lt;p&gt;
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;/img/GrotthussDoubleJump.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+Video 1: Two proton transfer events occuring. The central oxygen of the hydronium ion is shown in blue.&lt;/p&gt;
+
+&lt;p&gt;
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;/img/GrotthussFlickeringEvent.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+Video 2: A &amp;ldquo;flickering&amp;rdquo; event whereby the proton moves back and forth between two water molecules. The central oxygen of the hydronium ion is shown in blue.&lt;/p&gt;
+
+&lt;p&gt;
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;/img/GrotthussBreakdown.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+Video 3: A free hydrogen is generated.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

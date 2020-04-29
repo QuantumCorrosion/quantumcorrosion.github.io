@@ -3,6 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/post/grotthuss/grotthuss/</loc>
+    <lastmod>2020-04-29T13:12:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2020-04-29T13:12:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-04-29T13:12:47+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-04-29T13:12:47+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/grotthuss/</loc>
+    <lastmod>2020-04-29T13:12:47+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/talk/</loc>
     <lastmod>2020-04-20T09:00:00+01:00</lastmod>
   </url>
@@ -10,12 +38,6 @@
   <url>
     <loc>/talk/2020-corrosion-meeting/</loc>
     <lastmod>2020-04-20T09:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2020-04-20T09:00:00+01:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -73,17 +95,6 @@
   <url>
     <loc>/post/tony-electrophysics-notes/tony-electrophysics-notes/</loc>
     <lastmod>2019-07-26T13:12:47+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2019-07-26T13:12:47+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-07-26T13:12:47+01:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
