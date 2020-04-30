@@ -7,10 +7,60 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 29 Apr 2020 13:12:47 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2020 09:00:00 +0100</lastBuildDate>
     
 	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Fundamentals of the electrochemistry of the metal/electrolyte interface 2</title>
+      <link>/talk/2020-corrosion-meeting/</link>
+      <pubDate>Fri, 11 Sep 2020 09:00:00 +0100</pubDate>
+      
+      <guid>/talk/2020-corrosion-meeting/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PLEASE NOTE:&lt;/strong&gt; This meeting was originally scheduled for April, but was postponed due to the coronavirus outbreak. Thus, the (previously confirmed) speaker list below is currently subject to change if speakers are unavailable on the new date.&lt;/p&gt;
+
+&lt;p&gt;This meeting will continue the success of the previous meeting, with a focus on the aqueous corrosion of metals. The emphasis this time will be on longer length scale simulations (&lt;em&gt;i.e.&lt;/em&gt; longer than from standard atomistic methods). Funding for this event is from the EPSRC.&lt;/p&gt;
+
+&lt;p&gt;This page will be updated with more details closer to the event&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Speakers&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Michiel Sprik (University of Cambridge)&lt;/li&gt;
+&lt;li&gt;Barbara Shollock (King&amp;rsquo;s College London)&lt;/li&gt;
+&lt;li&gt;Geraint Williams (University of Swansea)&lt;/li&gt;
+&lt;li&gt;Afrooz Barnoush (Norwegian University of Science and Technology)&lt;/li&gt;
+&lt;li&gt;Philippe Marcus (ChimieParisTech-CNRS, Institut de Recherche de Chimie)&lt;br /&gt;
+&lt;em&gt;Instabilities of oxide films induced by surface reactions and effects on passivity breakdown and initiation of localized corrosion&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Julia Kunze Liebhäuser (University of Innbruck)&lt;/li&gt;
+&lt;li&gt;Mark Rainforth (The University of Sheffield)&lt;/li&gt;
+&lt;li&gt;Tony Horner (Rolls-Royce Submarines Limited)&lt;br /&gt;
+&lt;em&gt;Environmental Degradation of Materials used in the Nuclear Power Industry&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Stella Pedrazzini (Imperial College London)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Attendees&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;David Rugg (Rolls-Royce Plc)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Registration&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Registration is free. Please register by clicking &lt;a href=&#34;https://imperial.eu.qualtrics.com/jfe/form/SV_6m65GfdRxkbUJc9&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Organisers&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Clotilde Cucinotta (Imperial College London)&lt;/li&gt;
+&lt;li&gt;Andrew Horsfield (Imperial College London)&lt;/li&gt;
+&lt;li&gt;Tony Paxton (King&amp;rsquo;s College London)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;/img/TYC-black-on-white-orig.jpg&#34; alt=&#34;tyc_logo&#34; width=&#34;100&#34;/&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Grotthuss Mechanism Simulations</title>
@@ -18,7 +68,7 @@
       <pubDate>Wed, 29 Apr 2020 13:12:47 +0100</pubDate>
       
       <guid>/post/grotthuss/grotthuss/</guid>
-      <description>&lt;p&gt;Alexander Lozovoi has been using tight-binding to model the Grotthuss proton transfer mechanism in water. Shown below are parts of molecular dynamics simulations for a hydronium ion in water.&lt;/p&gt;
+      <description>&lt;p&gt;The group at King&amp;rsquo;s College (Sebastian Budd, Alexander Lozovoi and Tony Paxton) have been using tight-binding to model the Grotthuss proton transfer mechanism in water. Shown below are parts of molecular dynamics simulations for a hydronium ion in water.&lt;/p&gt;
 
 &lt;p&gt;
 
@@ -94,54 +144,6 @@ Video 2: A &amp;ldquo;flickering&amp;rdquo; event whereby the proton moves back 
   &lt;source src=&#34;/img/GrotthussBreakdown.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
 Video 3: A free hydrogen is generated.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Fundamentals of the electrochemistry of the metal/electrolyte interface 2</title>
-      <link>/talk/2020-corrosion-meeting/</link>
-      <pubDate>Mon, 20 Apr 2020 09:00:00 +0100</pubDate>
-      
-      <guid>/talk/2020-corrosion-meeting/</guid>
-      <description>&lt;p&gt;This meeting will continue the success of the previous meeting, with a focus on the aqueous corrosion of metals. The emphasis this time will be on longer length scale simulations (&lt;em&gt;i.e.&lt;/em&gt; longer than from standard atomistic methods). Funding for this event is from the EPSRC.&lt;/p&gt;
-
-&lt;p&gt;This page will be updated with more details closer to the event&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Confirmed Speakers&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Michiel Sprik (University of Cambridge)&lt;/li&gt;
-&lt;li&gt;Barbara Shollock (King&amp;rsquo;s College London)&lt;/li&gt;
-&lt;li&gt;Geraint Williams (University of Swansea)&lt;/li&gt;
-&lt;li&gt;Afrooz Barnoush (Norwegian University of Science and Technology)&lt;/li&gt;
-&lt;li&gt;Philippe Marcus (ChimieParisTech-CNRS, Institut de Recherche de Chimie)&lt;br /&gt;
-&lt;em&gt;Instabilities of oxide films induced by surface reactions and effects on passivity breakdown and initiation of localized corrosion&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;Julia Kunze Liebhäuser (University of Innbruck)&lt;/li&gt;
-&lt;li&gt;Mark Rainforth (The University of Sheffield)&lt;/li&gt;
-&lt;li&gt;Tony Horner (Rolls-Royce Submarines Limited)&lt;br /&gt;
-&lt;em&gt;Environmental Degradation of Materials used in the Nuclear Power Industry&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;Stella Pedrazzini (Imperial College London)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Confirmed Attendees&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;David Rugg (Rolls-Royce Plc)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Registration&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Registration is free. Please register by clicking &lt;a href=&#34;https://imperial.eu.qualtrics.com/jfe/form/SV_6m65GfdRxkbUJc9&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Organisers&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Clotilde Cucinotta (Imperial College London)&lt;/li&gt;
-&lt;li&gt;Andrew Horsfield (Imperial College London)&lt;/li&gt;
-&lt;li&gt;Tony Paxton (King&amp;rsquo;s College London)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&#34;/img/TYC-black-on-white-orig.jpg&#34; alt=&#34;tyc_logo&#34; width=&#34;100&#34;/&gt;&lt;/p&gt;
 </description>
     </item>
     
