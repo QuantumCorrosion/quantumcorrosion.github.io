@@ -14,20 +14,8 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2021-11-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/post/sasha_talk_nov_2021/ti_tb_model/</loc>
     <lastmod>2021-11-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/grotthuss/</loc>
-    <lastmod>2021-11-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -95,6 +83,18 @@
   <url>
     <loc>/post/grotthuss/grotthuss/</loc>
     <lastmod>2020-04-29T13:12:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-04-29T13:12:47+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/grotthuss/</loc>
+    <lastmod>2020-04-29T13:12:47+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
