@@ -7,10 +7,22 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 07 Sep 2021 09:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 24 Nov 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ti/Water Tight Binding Talk Slides</title>
+      <link>/post/sasha_talk_nov_2021/ti_tb_model/</link>
+      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/sasha_talk_nov_2021/ti_tb_model/</guid>
+      <description>&lt;p&gt;Sasha&amp;rsquo;s slides from a talk on progress in developing a tight binding model for Ti/Water given at a Quantum Corrosion meeting in November 2021.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;/files/talk_sasha_nov_2021.pdf&#34;&gt;Slides.pdf&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Fundamentals of the electrochemistry of the metal/electrolyte interface 2 (POSTPONED UNTIL 2022)</title>
