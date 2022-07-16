@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 16 Nov 2020 17:16:05 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 16 Jul 2022 22:28:05 +0100</lastBuildDate>
     
 	    <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,9 +15,36 @@
     <item>
       <title>Andrew P. Horsfield</title>
       <link>/authors/andrew-p.-horsfield/</link>
-      <pubDate>Mon, 16 Nov 2020 17:16:05 +0100</pubDate>
+      <pubDate>Sat, 16 Jul 2022 22:28:05 +0100</pubDate>
       
       <guid>/authors/andrew-p.-horsfield/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bingxin Li</title>
+      <link>/authors/bingxin-li/</link>
+      <pubDate>Sat, 16 Jul 2022 22:28:05 +0100</pubDate>
+      
+      <guid>/authors/bingxin-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nic Harrison</title>
+      <link>/authors/nic-harrison/</link>
+      <pubDate>Sat, 16 Jul 2022 22:28:05 +0100</pubDate>
+      
+      <guid>/authors/nic-harrison/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Richard M. Fogarty</title>
+      <link>/authors/richard-m.-fogarty/</link>
+      <pubDate>Sat, 16 Jul 2022 22:28:05 +0100</pubDate>
+      
+      <guid>/authors/richard-m.-fogarty/</guid>
       <description></description>
     </item>
     
@@ -36,15 +63,6 @@
       <pubDate>Mon, 16 Nov 2020 17:16:05 +0100</pubDate>
       
       <guid>/authors/mark-r.-wenman/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Richard M. Fogarty</title>
-      <link>/authors/richard-m.-fogarty/</link>
-      <pubDate>Mon, 16 Nov 2020 17:16:05 +0100</pubDate>
-      
-      <guid>/authors/richard-m.-fogarty/</guid>
       <description></description>
     </item>
     
@@ -154,10 +172,9 @@
       
       <guid>/authors/quantcorr/</guid>
       <description>&lt;p&gt;Quantum Corrosion is an EPSRC Standard-Grant
-(&lt;a href=&#34;http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/R005230/1&#34; target=&#34;_blank&#34;&gt;EP/R005230/1&lt;/a&gt;,
-&lt;a href=&#34;http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/R005419/1&#34; target=&#34;_blank&#34;&gt;EP/R005419/1&lt;/a&gt;,
-&lt;a href=&#34;http://gtr.ukri.org/project/54EEC293-6F23-4938-AB0D-CF56F0AB131D&#34; target=&#34;_blank&#34;&gt;UKRI&lt;/a&gt;) funded project to develop quantum-mechanical methods to model corrosion in technologically relevant materials.&lt;/p&gt;
-
+(&lt;a href=&#34;http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/R005230/1&#34;&gt;EP/R005230/1&lt;/a&gt;,
+&lt;a href=&#34;http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/R005419/1&#34;&gt;EP/R005419/1&lt;/a&gt;,
+&lt;a href=&#34;http://gtr.ukri.org/project/54EEC293-6F23-4938-AB0D-CF56F0AB131D&#34;&gt;UKRI&lt;/a&gt;) funded project to develop quantum-mechanical methods to model corrosion in technologically relevant materials.&lt;/p&gt;
 &lt;p&gt;In 2008 the annual financial cost to the UK arising from corrosion damage to
 metals was $70.6 billion. In addition to the financial cost, the threat of
 corrosion limits the range of materials that can be safely or reliably
