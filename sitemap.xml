@@ -2,47 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2022-07-16T22:28:05+01:00</lastmod>
-  </url><url>
-    <loc>/authors/andrew-p.-horsfield/</loc>
-    <lastmod>2022-07-16T22:28:05+01:00</lastmod>
-  </url><url>
-    <loc>/authors/</loc>
-    <lastmod>2022-07-16T22:28:05+01:00</lastmod>
-  </url><url>
-    <loc>/authors/bingxin-li/</loc>
-    <lastmod>2022-07-16T22:28:05+01:00</lastmod>
-  </url><url>
-    <loc>/publication/mg-water-interface/mg-water-interface/</loc>
-    <lastmod>2022-07-16T22:28:05+01:00</lastmod>
-  </url><url>
-    <loc>/authors/nic-harrison/</loc>
-    <lastmod>2022-07-16T22:28:05+01:00</lastmod>
-  </url><url>
-    <loc>/publication_types/</loc>
-    <lastmod>2022-07-16T22:28:05+01:00</lastmod>
-  </url><url>
-    <loc>/publication/</loc>
-    <lastmod>2022-07-16T22:28:05+01:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2022-07-16T22:28:05+01:00</lastmod>
-  </url><url>
-    <loc>/authors/richard-m.-fogarty/</loc>
-    <lastmod>2022-07-16T22:28:05+01:00</lastmod>
-  </url><url>
     <loc>/talk/</loc>
     <lastmod>2022-07-06T09:00:00+01:00</lastmod>
   </url><url>
     <loc>/talk/2020-corrosion-meeting/</loc>
     <lastmod>2022-07-06T09:00:00+01:00</lastmod>
   </url><url>
-    <loc>/post/</loc>
-    <lastmod>2021-11-24T00:00:00+00:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2022-07-06T09:00:00+01:00</lastmod>
   </url><url>
-    <loc>/post/sasha_talk_nov_2021/ti_tb_model/</loc>
-    <lastmod>2021-11-24T00:00:00+00:00</lastmod>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2020-11-16T17:16:05+01:00</lastmod>
+  </url><url>
+    <loc>/authors/andrew-p.-horsfield/</loc>
+    <lastmod>2020-11-16T17:16:05+01:00</lastmod>
+  </url><url>
+    <loc>/authors/</loc>
+    <lastmod>2020-11-16T17:16:05+01:00</lastmod>
+  </url><url>
+    <loc>/authors/bingxin-li/</loc>
+    <lastmod>2020-11-16T17:16:05+01:00</lastmod>
   </url><url>
     <loc>/authors/jana-smutna/</loc>
     <lastmod>2020-11-16T17:16:05+01:00</lastmod>
@@ -50,38 +29,32 @@
     <loc>/authors/mark-r.-wenman/</loc>
     <lastmod>2020-11-16T17:16:05+01:00</lastmod>
   </url><url>
+    <loc>/authors/nic-harrison/</loc>
+    <lastmod>2020-11-16T17:16:05+01:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-11-16T17:16:05+01:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2020-11-16T17:16:05+01:00</lastmod>
+  </url><url>
+    <loc>/authors/richard-m.-fogarty/</loc>
+    <lastmod>2020-11-16T17:16:05+01:00</lastmod>
+  </url><url>
+    <loc>/publication/mg-water-interface/mg-water-interface/</loc>
+    <lastmod>2020-11-16T17:16:05+01:00</lastmod>
+  </url><url>
     <loc>/publication/three_centre_tight_binding/tightbinding-ii/</loc>
     <lastmod>2020-11-16T17:16:05+01:00</lastmod>
   </url><url>
-    <loc>/tags/grotthuss/</loc>
-    <lastmod>2020-04-29T13:12:47+01:00</lastmod>
-  </url><url>
-    <loc>/post/grotthuss/grotthuss/</loc>
-    <lastmod>2020-04-29T13:12:47+01:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2020-04-29T13:12:47+01:00</lastmod>
-  </url><url>
     <loc>/publication/two_centre_tight_binding/tightbinding-i/</loc>
     <lastmod>2020-04-10T17:16:05+01:00</lastmod>
-  </url><url>
-    <loc>/tags/corrosion/</loc>
-    <lastmod>2019-07-26T13:12:47+01:00</lastmod>
-  </url><url>
-    <loc>/tags/electrochemistry/</loc>
-    <lastmod>2019-07-26T13:12:47+01:00</lastmod>
-  </url><url>
-    <loc>/post/tony-electrophysics-notes/tony-electrophysics-notes/</loc>
-    <lastmod>2019-07-26T13:12:47+01:00</lastmod>
   </url><url>
     <loc>/talk/2018-09-tyc-corrosion-meeting-2019/</loc>
     <lastmod>2019-04-25T09:00:00+01:00</lastmod>
   </url><url>
     <loc>/talk/2018-07-helsinki/</loc>
     <lastmod>2018-07-09T12:00:00+01:00</lastmod>
-  </url><url>
-    <loc>/post/2018-corrosion-notes/2018-05-corrosion-notes/</loc>
-    <lastmod>2018-05-14T13:25:47+01:00</lastmod>
   </url><url>
     <loc>/talk/computational-corrosion-tyc/</loc>
     <lastmod>2018-04-24T09:00:00+01:00</lastmod>
@@ -143,5 +116,9 @@
     <loc>/authors/quantcorr/</loc>
   </url><url>
     <loc>/categories/</loc>
+  </url><url>
+    <loc>/post/</loc>
+  </url><url>
+    <loc>/tags/</loc>
   </url>
 </urlset>

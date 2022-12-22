@@ -1,43 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Quantum Corrosion</title>
     <link>/tags/</link>
     <description>Recent content in Tags on Quantum Corrosion</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 29 Apr 2020 13:12:47 +0100</lastBuildDate>
-    
-	    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>grotthuss</title>
-      <link>/tags/grotthuss/</link>
-      <pubDate>Wed, 29 Apr 2020 13:12:47 +0100</pubDate>
-      
-      <guid>/tags/grotthuss/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>corrosion</title>
-      <link>/tags/corrosion/</link>
-      <pubDate>Fri, 26 Jul 2019 13:12:47 +0100</pubDate>
-      
-      <guid>/tags/corrosion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>electrochemistry</title>
-      <link>/tags/electrochemistry/</link>
-      <pubDate>Fri, 26 Jul 2019 13:12:47 +0100</pubDate>
-      
-      <guid>/tags/electrochemistry/</guid>
-      <description></description>
-    </item>
-    
+    <copyright>&amp;copy; 2018</copyright><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

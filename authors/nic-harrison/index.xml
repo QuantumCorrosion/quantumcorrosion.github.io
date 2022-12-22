@@ -1,21 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nic Harrison on Quantum Corrosion</title>
     <link>/authors/nic-harrison/</link>
     <description>Recent content in Nic Harrison on Quantum Corrosion</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sat, 16 Jul 2022 22:28:05 +0100</lastBuildDate>
-    
-	    <atom:link href="/authors/nic-harrison/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 16 Nov 2020 17:16:05 +0100</lastBuildDate><atom:link href="/authors/nic-harrison/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mg-water-interface</title>
+      <title>TightBinding-II</title>
       <link>/publication/mg-water-interface/mg-water-interface/</link>
-      <pubDate>Sat, 16 Jul 2022 22:28:05 +0100</pubDate>
+      <pubDate>Mon, 16 Nov 2020 17:16:05 +0100</pubDate>
       
       <guid>/publication/mg-water-interface/mg-water-interface/</guid>
       <description></description>

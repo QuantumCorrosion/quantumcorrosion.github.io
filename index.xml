@@ -1,50 +1,131 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Quantum Corrosion</title>
     <link>/</link>
     <description>Recent content on Quantum Corrosion</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sat, 16 Jul 2022 22:28:05 +0100</lastBuildDate>
-    
-	    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 06 Jul 2022 09:00:00 +0100</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Publications</title>
-      <link>/publication/</link>
-      <pubDate>Sat, 16 Jul 2022 22:28:05 +0100</pubDate>
-      
-      <guid>/publication/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Events</title>
-      <link>/talk/</link>
+      <title>Fundamentals of the electrochemistry of the metal/electrolyte interface 2 (July 2022)</title>
+      <link>/talk/2020-corrosion-meeting/</link>
       <pubDate>Wed, 06 Jul 2022 09:00:00 +0100</pubDate>
       
-      <guid>/talk/</guid>
-      <description></description>
+      <guid>/talk/2020-corrosion-meeting/</guid>
+      <description>This symposium is supported by the TYC and is the third meeting organised by the partners of the EPSRC project on quantum corrosion. The symposium will focus on the fundamentals of electrochemistry of the metal/electrolyte interface, and will bring together theorists and experimentalists to discuss the latest developments. As well as the talks, there is a poster session and a concluding discussion session.
+This page will be updated with more details closer to the event.</description>
     </item>
     
     <item>
-      <title>Posts</title>
-      <link>/post/</link>
-      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
+      <title>TightBinding-II</title>
+      <link>/publication/mg-water-interface/mg-water-interface/</link>
+      <pubDate>Mon, 16 Nov 2020 17:16:05 +0100</pubDate>
       
-      <guid>/post/</guid>
+      <guid>/publication/mg-water-interface/mg-water-interface/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>/project/</link>
+      <title>TightBinding-II</title>
+      <link>/publication/three_centre_tight_binding/tightbinding-ii/</link>
+      <pubDate>Mon, 16 Nov 2020 17:16:05 +0100</pubDate>
+      
+      <guid>/publication/three_centre_tight_binding/tightbinding-ii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TightBinding-I</title>
+      <link>/publication/two_centre_tight_binding/tightbinding-i/</link>
+      <pubDate>Fri, 10 Apr 2020 17:16:05 +0100</pubDate>
+      
+      <guid>/publication/two_centre_tight_binding/tightbinding-i/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational corrosion: Fundamentals</title>
+      <link>/talk/2018-09-tyc-corrosion-meeting-2019/</link>
+      <pubDate>Thu, 25 Apr 2019 09:00:00 +0100</pubDate>
+      
+      <guid>/talk/2018-09-tyc-corrosion-meeting-2019/</guid>
+      <description>We are happy to announce that we are having a one-day corrosion meeting at Imperial College (London) on Thursday 25 April 2019. Support is from the Thomas Young Centre (https://www.thomasyoungcentre.org/)
+The topic of the meeting will be focused on &amp;lsquo;fundamentals of the electrochemistry of the metal/electrolyte interface&amp;rsquo;.
+Please see the meeting website for more information (http://www3.imperial.ac.uk/newsandeventspggrp/imperialcollege/naturalsciences/chemistry/eventssummary/event_10-12-2018-10-26-45).</description>
+    </item>
+    
+    <item>
+      <title>International Workshop on Computational Electrochemistry</title>
+      <link>/talk/2018-07-helsinki/</link>
+      <pubDate>Mon, 09 Jul 2018 12:00:00 +0100</pubDate>
+      
+      <guid>/talk/2018-07-helsinki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational Corrosion TYC</title>
+      <link>/talk/computational-corrosion-tyc/</link>
+      <pubDate>Tue, 24 Apr 2018 09:00:00 +0100</pubDate>
+      
+      <guid>/talk/computational-corrosion-tyc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Magnesium</title>
+      <link>/project/magnesium/</link>
       <pubDate>Wed, 18 Apr 2018 17:56:07 +0100</pubDate>
       
-      <guid>/project/</guid>
+      <guid>/project/magnesium/</guid>
+      <description>Magnesium alloys are lightweight and strong, but technological applications are limited by high rates of aqueeous corrosion (even damp air is sufficient!).
+Magnesium can used for medical implants that are designed to dissolve over time, hence corrosion is desirable. However, the corrosion rate needs to be controlled to prevent damaging hydrogen build up.</description>
+    </item>
+    
+    <item>
+      <title>Titanium</title>
+      <link>/project/titanium/</link>
+      <pubDate>Wed, 18 Apr 2018 17:56:03 +0100</pubDate>
+      
+      <guid>/project/titanium/</guid>
+      <description>Titanium alloys are relatively corrosion resistant, but in the aerospace sector suffer stress corrosion cracking following degreasing in chlorine-containing agents, or even after handling by salty fingers! When titanium is used for medical implants, corrosion is a principal cause of failure; for example, localised wear of an implant exposes a small area of metal establishing a large anodic current density and localised metal wastage.</description>
+    </item>
+    
+    <item>
+      <title>HairyProbes</title>
+      <link>/publication/hairy_probes/hairyprobes/</link>
+      <pubDate>Wed, 10 Aug 2016 17:16:05 +0100</pubDate>
+      
+      <guid>/publication/hairy_probes/hairyprobes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JCP III</title>
+      <link>/publication/jcp-iii/</link>
+      <pubDate>Mon, 28 Jul 2014 02:00:00 +0100</pubDate>
+      
+      <guid>/publication/jcp-iii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JCP II</title>
+      <link>/publication/jcp-ii/</link>
+      <pubDate>Mon, 28 Jul 2014 01:00:00 +0100</pubDate>
+      
+      <guid>/publication/jcp-ii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JCP I</title>
+      <link>/publication/jcp-i/</link>
+      <pubDate>Mon, 28 Jul 2014 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/jcp-i/</guid>
       <description></description>
     </item>
     
